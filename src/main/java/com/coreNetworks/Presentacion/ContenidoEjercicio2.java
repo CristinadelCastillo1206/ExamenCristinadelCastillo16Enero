@@ -1,9 +1,8 @@
 package com.coreNetworks.Presentacion;
 
 import java.io.*;
-import java.util.Scanner;
 
-public class Contenido {
+public class ContenidoEjercicio2 {
     public static void main(String[] args) {
 
         //Ejercicio 2

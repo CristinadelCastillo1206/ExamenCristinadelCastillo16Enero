@@ -1,11 +1,10 @@
 package com.coreNetworks.Presentacion;
 
-import javax.xml.crypto.Data;
 import java.io.File;
 import java.util.Date;
 import java.util.Scanner;
 
-public class LeerFichero {
+public class LeerFicheroEjercicio1 {
     public static void main(String[] args) {
         // Ejercicio 1
         //Importar las clases necesarias
